@@ -6,6 +6,7 @@ This was just to teach myself Laravel and Blade.
 ## Technology
 - Laravel
 - TailwindCSS
+- MySQL
 
 
 ## Installation
