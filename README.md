@@ -11,6 +11,6 @@ This was just to teach myself Laravel and Blade.
 ## Installation
 ### Install all our dependencies first
 - run `composer install`
-- npm install
+- run `npm install`
 ### Migrate our database
-- php artisan migrate
+- run `php artisan migrate`
