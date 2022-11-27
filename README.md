@@ -1,4 +1,4 @@
-# cat-social
+# Cat forum page
 
 Small project written in PHP using Laravel to create profiles for Cats.
 This was just to teach myself Laravel and Blade.
